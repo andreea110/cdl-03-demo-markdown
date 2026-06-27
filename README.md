@@ -8,7 +8,7 @@ Also create a `Makefile` to build the program.
 
 Start from the following skeleton:
 
-```c=
+```c
 #include<stdio.h>
 
 int main(void){
@@ -28,7 +28,7 @@ make
 
 To test, run:
 
-```console=
+```console
 ./helloworld | grep 'Hello, world!'
 ```
 
@@ -44,7 +44,7 @@ To test, run:
 
 As bonus, create  a similare program in Python. Start from the folllowing skeleton:
 
-```py=
+```py
 import sys
 
 def main():
